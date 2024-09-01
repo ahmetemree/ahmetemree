@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetemree&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetemree" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetemree" alt="ahmetemree" /></a> </p>
-
 - 🔭 I’m currently working on [SmartAI](https://smart-ai-two.vercel.app/)
 
 - 🌱 I’m currently learning **Node.js**
